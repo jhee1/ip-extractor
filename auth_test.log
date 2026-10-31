@@ -1,0 +1,24 @@
+Oct 31 04:01:11 srv02 sshd[2101]: Invalid user admin from 185.220.101.4 port 52100
+Oct 31 04:01:13 srv02 sshd[2101]: Failed password for invalid user admin from 185.220.101.4 port 52100 ssh2
+Oct 31 04:01:15 srv02 sshd[2103]: Invalid user test from 185.220.101.4 port 52110
+Oct 31 04:01:17 srv02 sshd[2103]: Failed password for invalid user test from 185.220.101.4 port 52110 ssh2
+Oct 31 04:02:40 srv02 sshd[2110]: Failed password for root from 185.220.101.4 port 52140 ssh2
+Oct 31 04:03:02 srv02 sshd[2115]: Failed publickey for deploy from 45.155.205.233 port 41000 ssh2
+Oct 31 04:03:05 srv02 sshd[2115]: Failed publickey for deploy from 45.155.205.233 port 41002 ssh2
+Oct 31 04:03:09 srv02 sshd[2115]: Failed publickey for deploy from 45.155.205.233 port 41004 ssh2
+Oct 31 04:03:12 srv02 sshd[2115]: Failed publickey for deploy from 45.155.205.233 port 41006 ssh2
+Oct 31 04:04:20 srv02 sshd[2120]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=91.240.118.172 user=root
+Oct 31 04:04:22 srv02 sshd[2120]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=91.240.118.172 user=root
+Oct 31 04:04:25 srv02 sshd[2120]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=91.240.118.172 user=root
+Oct 31 04:05:31 srv02 sshd[2130]: Failed password for root from 103.145.13.88 port 60500 ssh2
+Oct 31 04:05:35 srv02 sshd[2130]: Failed password for root from 103.145.13.88 port 60502 ssh2
+Oct 31 04:06:44 srv02 sshd[2140]: Accepted password for sebastian from 192.168.1.15 port 50200 ssh2
+Oct 31 04:07:10 srv02 sshd[2145]: Failed password for oracle from 999.300.1.1 port 33333 ssh2
+Oct 31 04:08:02 srv02 sshd[2150]: Failed password for root from 77.91.68.14 port 38500 ssh2
+Oct 31 04:08:05 srv02 sshd[2150]: Failed password for root from 77.91.68.14 port 38502 ssh2
+Oct 31 04:08:09 srv02 sshd[2150]: Failed password for root from 77.91.68.14 port 38504 ssh2
+Oct 31 04:09:15 srv02 sshd[2160]: Failed password for root from 185.220.101.4 port 52300 ssh2
+Oct 31 04:10:01 srv02 CRON[2170]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 31 04:11:22 srv02 sshd[2180]: Failed password for pi from 8.8.8.8 port 55000 ssh2
+Oct 31 04:12:48 srv02 sshd[2190]: Accepted publickey for sebastian from 192.168.1.15 port 50300 ssh2
+Oct 31 04:13:30 srv02 sshd[2195]: Received disconnect from 45.155.205.233 port 41100:11: Bye Bye [preauth]
